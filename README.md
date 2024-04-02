@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshcodz" target="blank"><img src="https://img.shields.io/twitter/follow/harshcodz?logo=twitter&style=for-the-badge" alt="harshcodz" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Web development**
 
 - 👨‍💻 All of my projects are available at [https://harshpreet-57.github.io/My-website/](https://harshpreet-57.github.io/My-website/)
 
